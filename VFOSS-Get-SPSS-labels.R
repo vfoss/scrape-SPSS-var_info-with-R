@@ -11,6 +11,9 @@
 
 # Author: Vicki Foss
 
+# Script available on github: 
+# https://github.com/vfoss/scrape-SPSS-var_info-with-R/blob/master/VFOSS-Get-SPSS-labels.R
+
 Sys.setlocale("LC_ALL", "UTF-8")
 Sys.setlocale("LC_TIME", "en_US.UTF-8")
 
